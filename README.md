@@ -3,9 +3,11 @@
 
 ## Illustration :
 
-[ PRETEND SCREEN SHOT IS HERE ]
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+
+https://user-images.githubusercontent.com/74913575/138083528-c6c04682-83de-4e17-9dfe-0e0c4e0fc5c0.mov
+
+
 
 ## Installation and Setup Instructions
 
